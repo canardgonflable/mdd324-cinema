@@ -17,8 +17,8 @@
         
         }
     ]
-}`
-
+}
+```
 
 # AWS Serverless Application
 
