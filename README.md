@@ -1,3 +1,25 @@
+# Requête HTTP
+
+`GET`
+
+# Réponse HTTP
+
+```json
+{
+    "films":[
+        {
+            "categorie":"Animation",
+            "description":"<p>À la suite d’une chute lors de la cueillette du gui,...",
+            "duree":"01h25min",
+            "titre":"Astérix - Le Secret de la Potion Magique"
+        },
+        {
+        
+        }
+    ]
+}`
+
+
 # AWS Serverless Application
 
 This is a sample template for AWS Serverless Application - Below is a brief explanation of what we have generated for you:
