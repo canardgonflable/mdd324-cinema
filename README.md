@@ -2,6 +2,8 @@
 
 `GET`
 
+Pour récupérer les films à l'affiche, http://rss.allocine.fr/ac/cine/cettesemaine?format=xml
+
 # Réponse HTTP
 
 ```json
